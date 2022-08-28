@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flashMve
-- 👀 I’m interested in Building Cool Mobile App's, Website's and Web App's
+- 👀 I’m interested in Building Cool Mobile App's with Flutter, Website's and Web App's (with Flutter or REACT Js)
 - 🌱 I’m currently learning New Things everyday
 - 💞️ I’m looking to collaborate on any project really but would love to collaborate on a Open Source Project to help the community and my learning also
-- 📫 How to reach me : Contact me on abrar.javed3@gmail.com or m.abrar@faxwoid.com
+- 📫 Contact me on abrar.javed3@gmail.com or m.abrar@faxwoid.com
